@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(0, 169, 31);
+}
+h1{
+    text-align: center;
+}
+.pic{
+    text-align: right;
+}
+.mylink{
+    font-size: 50px;
+    color: black;
+}
+.name{
+    font-size: 60px;
+    color: blue;
+}
